@@ -1,3 +1,3 @@
 # miPrueba
 
-autor Javier Vidal Tellols
+Autor Javier Vidal Tellols
